@@ -89,7 +89,7 @@ python evaluate.py --pred submission.csv --truth validation_truth.csv
 
 ### 👥 Team
 
-* **Shicheng Guo** – Modeling & Systems Biology Lead
+* **\[Teammate 1]*** – Modeling & Systems Biology Lead
 * **\[Teammate 2]** – Data Preprocessing & Evaluation
 * **\[Teammate 3]** – Visualization & Interpretation
 
