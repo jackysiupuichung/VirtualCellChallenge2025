@@ -48,8 +48,8 @@ We also incorporated external perturb-seq datasets such as:
 
 ```bash
 # Clone repo
-git clone https://github.com/yourname/virtual-cell-2025.git
-cd virtual-cell-2025
+git clone [https://github.com/yourname/virtual-cell-2025.git](https://github.com/ds4cabs/VirtualCellChallenge2025.git)
+cd VirtualCellChallenge2025
 
 # Set up environment
 conda env create -f environment.yml
